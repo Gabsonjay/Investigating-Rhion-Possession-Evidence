@@ -22,7 +22,7 @@ Examine the supplied USB disk image and authorised FTP and HTTP traffic captures
 
 <p align="center">
 Create the evidence folder: <br/>
-<img src="https://imgur.com/ng6LV8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/M1H1cYj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Evidence:  <br/>
